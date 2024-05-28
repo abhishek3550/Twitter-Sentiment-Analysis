@@ -1,4 +1,4 @@
-This project aims to perform sentiment analysis on tweets fetched from Twitter. Sentiment analysis is the process of determining whether a piece of writing is positive, negative, or neutral. This can be particularly useful for analyzing public opinion on a particular topic, brand, or event.
+# This project aims to perform sentiment analysis on tweets fetched from Twitter. Sentiment analysis is the process of determining whether a piece of writing is positive, negative, or neutral. This can be particularly useful for analyzing public opinion on a particular topic, brand, or event.
 
 # Features
 ## Data Preprocessing: Clean and preprocess the collected tweets for analysis.
