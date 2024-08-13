@@ -12,3 +12,4 @@ To run this project, you will need the following:
 Python 3.x
 # Libraries: 
 Tweepy, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, NLTK, TextBlob
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/0e516773-e5e2-47ba-b7e9-cef500522393">
